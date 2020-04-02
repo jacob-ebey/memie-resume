@@ -16,6 +16,11 @@ class About extends Component {
       var resumeDownload = this.props.data.resumedownload;
     }
 
+    const handleDownloadResume = (event) => {
+      event.preventDefault();
+      window.print();
+    };
+
     return (
       <section id="about">
       <div className="row">
@@ -31,16 +36,16 @@ class About extends Component {
                   <h2>Contact Details</h2>
                   <p className="address">
 						   <span>{name}</span><br />
-						   <span>{street}<br />
+						   <span>{street}{street && <br />}
 						         {city} {state}, {zip}
-                   </span><br />
-						   <span>{phone}</span><br />
+                   </span>{(phone || email) && <br />}
+						   <span>{phone}</span>{phone && <br />}
                      <span>{email}</span>
 					   </p>
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a href={resumeDownload} onClick={resumeDownload ? undefined : handleDownloadResume} className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
             </div>

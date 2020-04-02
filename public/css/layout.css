@@ -66,7 +66,7 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   color: #cccccc;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
@@ -203,7 +203,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #cccccc;
 }
 #about .profile-pic {
    position: relative;
@@ -261,7 +261,8 @@ ul#nav li.current a { color: #F06000; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work {
+
+.education, .work, .research {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
@@ -302,10 +303,9 @@ ul#nav li.current a { color: #F06000; }
   	height: 42px;
   	border-radius: 3px;
 }
-.bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+.bars li .bar-label {
+	font-size: 15px;
    color: #313131;
-	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
@@ -933,14 +933,14 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #525252;
    font-size: 14px;
    text-align: center;
    position: relative;
 }
 
-footer a, footer a:visited { color: #525252; }
-footer a:hover, footer a:focus { color: #fff; }
+footer span, footer a, footer a:visited { color: #525252; }
+footer a:hover, footer a:focus { color: #525252; }
 
 /* copyright */
 footer .copyright {
@@ -1009,3 +1009,134 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+.print-only {
+   display: none;
+}
+
+@media print {
+   .print-only {
+      display: inherit;
+   }
+
+   * {
+      font: inherit !important;
+      font-family: 'opensans-regular', sans-serif !important;
+      background: none !important;
+      background-color: none !important;
+      color: black !important;
+      text-shadow: none !important;
+      font-size: 11px !important;
+      padding: 0 !important;
+      margin: 0 !important;
+      width: 100% !important;
+      height: auto !important;
+      line-height: 12px;
+   }
+
+   .responsive-headline {
+      font-size: 11px !important;
+   }
+
+   .no-print {
+      display: none !important;
+   }
+
+   h1, h2, h3, h4, h5, h6, p, ul {
+      margin-top: 5px !important;
+      margin-bottom: 6px !important;
+   }
+
+   li {
+      margin-bottom: 4px !important;
+      margin-left: 20px !important;
+   }
+
+   h3 {
+      font-size: 16px !important;
+   }
+
+   .info span, .header-contact span {
+      margin: 0 5px !important;
+   }
+
+   nav {
+      display: none !important;
+   }
+
+   footer {
+      display: none !important;
+   }
+
+   .row {
+      padding: 10px 0 !important;
+   }
+
+   .columns {
+      padding: 0 !important;
+      width: 100% !important;
+   }
+
+   img {
+      display: none !important;
+   }
+
+   #home {
+      height: auto !important;
+      min-height: auto !important;
+   }
+
+   .banner-text h1 {
+      font-size: 20px !important;
+   }
+
+   .banner-text h3 {
+      font-size: 12px !important;
+      width: auto !important;
+   }
+   
+   .banner-text hr {
+      margin-top: 10px !important;
+   }
+
+   .main-col .item {
+      padding: 0 !important;
+   }
+
+   .scrolldown {
+      display: none !important;
+   }
+
+   #about {
+      display: none !important;
+   }
+
+   #about, #resume {
+      padding: 0 !important;
+   }
+
+   .header-col {
+      margin-bottom: 12px;
+   }
+
+   .bar-expand {
+      display: none !important;
+   }
+
+   .skills {
+      list-style: disc !important;
+      top: unset !important;
+   }
+
+   .skills li {
+      position: relative;
+      top: unset !important;
+      background: none !important;
+   }
+
+   .bars li .bar-label {
+      color: inherit !important;
+      letter-spacing: inherit !important;
+      top: unset !important;
+   }
+}
