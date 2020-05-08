@@ -4,8 +4,7 @@
     "occupation":"Research Technician",
     "description":"Originally from Thailand, I have been studying and working in the US for six years in pursuit of knowledge and long term employment.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"My undergraduate hard science courses with labs and experiences working in the labolatory setting have assured me to pursue career in research field to help developing more effective techniques to eliminating diseases and provide improved treatments for patients in the future. I am particularly passionate about how immune system works and fights off infections, as well as, how molecules (hormones, proteins, lipids, drugs, and etc) interact with other molecules such as receptors and communicate with our body to activate specific pathway and exhibit specific function. I am interested in learning/exploring new techniques and expanding my scientific background and hoping that one day, my knowledge will be able to save people in the future.",
     "email": "panisara_mj@live.com",
     "phone": "206-472-8523",
     "address":{
@@ -64,13 +63,33 @@
     ],
     "work": [
       {
-        "company":"Some Company",
-        "title":"Your Title",
-        "years":"Sep 2019 - Dec 2019",
-        "description":"A short description of your responsibilities."
+        "company":"Bastyr University, Kenmore",
+        "title":"Server",
+        "years":"Oct 2018 - Aug 2019",
+        "description":"- Provided customer service in an efficient, friendly and professional manner. \n- Maintained high levels of cleanliness of the food area. \n- Managed cash register."
+      },
+      {
+        "company": "Seattle Central College, Seattle",
+        "title": "Tutor",
+        "years": "Oct 2017 - Mar 2018",
+        "description":"- Mentored students with inorganic Chemistry and Mathematics. \n- Assisted students towards criticle thinking. \n- Provided students with problem-solving strategies and skills."
       }
     ],
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "volunteer": [
+      {
+        "company": "Community Lunch on Capitol Hill",
+        "title": "Volunteer food server",
+        "year": "Jan 2018",
+        "description": "- Organized and prepared food and supplies. \n- Provided food and supplies for low income population. \n- Communicated and provided support for low income population."
+      },
+      {
+        "company": "Pike Place Child Care and Preschool, Seattle",
+        "title": "Volunteer Childcare Taker Assistance",
+        "year": "Apr 2015 - June 2015",
+        "description": "- Organized and prepared classroom activities. \n- Assisted children in developing problem solving skills. \n- Enhanced social skills and built socialization games/activites."
+      }
+    ],
+    "skillmessage":"",
     "skills":[
       {
         "name":"Collaboration",
