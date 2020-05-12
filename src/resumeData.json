@@ -17,7 +17,7 @@
     ]
   },
   "resume":{
-    "education":[
+    "education": [
       {
         "school":"Bastyr University",
         "degree":"Bachelor of Science in Integrated Human Biology",
@@ -30,6 +30,18 @@
         "graduated":"March 2018",
         "description":"Initial introduction to hard science courses with labs "
       }
+    ],
+    "relevantCourseWork": [
+      "Immunology",
+      "Pathophysiology",
+      "Biology of receptors",
+      "Organic chemistry with lab",
+      "Integrated biochemistry and cell biology with lab",
+      "Advanced cell and molecular biology",
+      "Integrated Human Biology series with cadaver lab",
+      "Microbiology with lab",
+      "Biophysics",
+      "Biotechnology"
     ],
     "research":[
       {
@@ -54,6 +66,7 @@
         "description":"- Proposed research project.\n- Created a grant proposal.\n- Designed a step by step research project to determine cytotoxic effect of alpha-mangostin and/or *Tinospora* extracts on human colon cancer, HCT 116, cells."
       },
       {
+        "break": true,
         "company":"Research Method: Secondary Analysis",
         "lab": "Messner Lab, Bastyr University",
         "title":"Undergraduate Researcher",

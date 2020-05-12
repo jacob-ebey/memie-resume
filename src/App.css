@@ -1,3 +1,7 @@
-.research{
-    page-break-after: always;
+.break {
+    page-break-before: always;
+}
+
+.course-work ul {
+    column-count: 2;
 }

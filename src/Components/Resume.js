@@ -7,26 +7,29 @@ class Resume extends Component {
         if (this.props.data) {
             var skillmessage = this.props.data.skillmessage;
             var education = this.props.data.education.map(function (education) {
-                return <div key={education.school}><h3>{education.school}</h3>
+                return <div key={education.school} className={education.break && "break"}><h3>{education.school}</h3>
                     <p className="info">{education.degree}<span>&bull;</span><em
                         className="date">{education.graduated}</em></p>
                     <Markdown source={education.description}/></div>
             })
+            var relevantCourseWork = this.props.data.relevantCourseWork.map(function (work) {
+                return <li key={work}>{work}</li>
+            })
             var volunteer = this.props.data.volunteer.map(function (item) {
-                return <div key={item.company}><h3>{item.company}</h3>
-                    <p className="info">{item   .title}</p>
+                return <div key={item.company} className={item.break && "break"}><h3>{item.company}</h3>
+                    <p className="info">{item.title}</p>
                     {item.description && <Markdown source={item.description}/>}
                 </div>
             })
             var research = this.props.data.research.map(function (research) {
-                return <div key={research.company}><h3>{research.company}</h3>
+                return <div key={research.company}  className={research.break && "break"}><h3>{research.company}</h3>
                     <p className="info">{research.title}<span>&bull;</span>{research.lab}<span>&bull;</span><em
                         className="date">{research.years}</em></p>
                     <Markdown source={research.description}/>
                 </div>
             })
             var work = this.props.data.work.map(function (work) {
-                return <div key={work.company}><h3>{work.company}</h3>
+                return <div key={work.company} className={work.break && "break"}><h3>{work.company}</h3>
                     <p className="info">{work.title}<span>&bull;</span><em className="date">{work.years}</em></p>
                     <Markdown source={work.description}/>
                 </div>
@@ -50,6 +53,23 @@ class Resume extends Component {
                         <div className="row item">
                             <div className="twelve columns">
                                 {education}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div className="row course-work">
+                    <div className="three columns header-col">
+                        <h1><span>Course Work</span></h1>
+                    </div>
+
+                    <div className="nine columns main-col">
+                        <div className="row item">
+                            <div className="twelve columns">
+                                <ul>
+                                    {relevantCourseWork}
+                                </ul>
                             </div>
                         </div>
                     </div>
