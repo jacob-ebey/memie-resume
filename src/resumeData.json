@@ -1,34 +1,36 @@
 {
   "main": {
-    "name":"Panisara Lertrungwichian",
-    "occupation":"Research Technician",
-    "description":"Originally from Thailand, I have been studying and working in the US for six years in pursuit of knowledge and long term employment.",
-    "image":"profilepic.jpg",
-    "bio":"My undergraduate hard science courses with labs and experiences working in the labolatory setting have assured me to pursue career in research field to help developing more effective techniques to eliminating diseases and provide improved treatments for patients in the future. I am particularly passionate about how immune system works and fights off infections, as well as, how molecules (hormones, proteins, lipids, drugs, and etc) interact with other molecules such as receptors and communicate with our body to activate specific pathway and exhibit specific function. I am interested in learning/exploring new techniques and expanding my scientific background and hoping that one day, my knowledge will be able to save people in the future.",
+    "name": "Panisara Lertrungwichian",
+    "occupation": "Research Technician",
+    "description": "Originally from Thailand, I have been studying and working in the US for six years in pursuit of knowledge and long term employment.",
+    "image": "profilepic.jpg",
+    "bio": [
+      "I am particularly interested in utilizing the power of our own immune system to fight off various infections and diseases. We are all born with built-in armies that help protect us from infections, but not everyone of us were born with healthy and intact immune functions which make them more susceptible to various diseases. Also, the immune function will have to work extra hard when there is infection which overtime, makes us even more vulnerable to infections. With that being said, I am interested in improving our own immune function by boosting the immune cells such as T cells, altering/genetic engineering structures of immune cells so they could potentially target specific antigen, manipulating our immune responses to work better in fighting off cancer or related diseases, and so on. I am also interested in learning about the mechanism of T cell such as its metabolism, its interaction with other immune cells or cancer/infected cells because I believe T cell is the master controller in our immune responses (adaptive and innate), which are very important when it comes to fighting off infections. I am also interested in learning and gaining knowledge about mechanism of stem cells, particularly on blood stem cells involving in generating specific immune cells related to cancer to possibly reduce tumor progression.",
+      "I am a highly motivated and fast-paced individual who enjoys collaborating with others, learning new techniques, expanding my scientific skills and knowledge, and working independently on the bench. My undergraduate hard science courses with physiological/anatomical and cadaver labs and working in the laboratory setting with experiences in mammalian cell culture, sterile techniques, accurately utilizing multichannel pipettes, preforming XTT assay, collecting data, utilizing Microsoft excel, following protocol/procedure, data analysis, and collaborating with other undergraduate researchers, have assured me even more to pursue career in immune-related research field. I hope to help developing more effective techniques to eliminate cancer/related diseases and provide improved treatments to patients who may face immune-related health issues in the future. Lastly, I would love to be a part of your research team to help develop immunotherapy for those who may need."
+    ],
     "email": "panisara_mj@live.com",
     "phone": "206-472-8523",
-    "address":{
-      "city":"Seattle",
-      "state":"Washington"
+    "address": {
+      "city": "Seattle",
+      "state": "Washington"
     },
     "website": "https://memie-lert.now.sh",
-    "resumedownload":"",
-    "social":[
-    ]
+    "resumedownload": "",
+    "social": []
   },
-  "resume":{
+  "resume": {
     "education": [
       {
-        "school":"Bastyr University",
-        "degree":"Bachelor of Science in Integrated Human Biology",
-        "graduated":"June 2020",
-        "description":"Spent time in laboratory setting with knowledge of sterilization techniques, maintaining and preparing stock reagents, tissue culturing, XTT assay (cell viability), data analysis, collaboration, and word and excel software."
+        "school": "Bastyr University",
+        "degree": "Bachelor of Science in Integrated Human Biology",
+        "graduated": "June 2020",
+        "description": "Spent time in laboratory setting with knowledge of sterilization techniques, maintaining and preparing stock reagents, tissue culturing, XTT assay (cell viability), data analysis, collaboration, and word and excel software."
       },
       {
-        "school":"Seattle Central College",
-        "degree":"Associates degree in Arts (AA-DTA)",
-        "graduated":"March 2018",
-        "description":"Initial introduction to hard science courses with labs "
+        "school": "Seattle Central College",
+        "degree": "Associates degree in Arts (AA-DTA)",
+        "graduated": "March 2018",
+        "description": "Initial introduction to hard science courses with labs "
       }
     ],
     "relevantCourseWork": [
@@ -43,48 +45,55 @@
       "Biophysics",
       "Biotechnology"
     ],
-    "research":[
+    "research": [
       {
-        "company":"Tetrahydrocurcumin (THC) and Iron Toxicity",
-        "lab": "Messner Lab, Bastyr University (Basic science department)",
-        "title":"Undergraduate Researcher",
-        "years":"Jan 2020 - Present",
-        "description":"- Created and performed different treatment conditions on iron overloaded rat hepatocyte epithelial cells, T51B cells.\n- Detected cell viability and determined concentration-dependent of Tetrahydrocurcumin (THC) and curcumin.\n- Accurately utilized spectrophotometry and analyzed data using excel software."
+        "company": "Advanced microbiology topic: coronaviruses",
+        "lab": "Dr.Achterman, Bastyr University",
+        "title": "Undergraduate Researcher",
+        "years": "Apr 2020 - June 2020",
+        "description": "- Curiously researched on ongoing pandemic disease.\n- Independently gathered scientific information on replication cycle, pathogenesis of SARS-CoV-2 and currrent COVID-19 treatments.\n- Wrote a scientific review paper on SARS-CoV-2 and COVID-19."
       },
       {
-        "company":"Research Introduction",
+        "company": "Tetrahydrocurcumin (THC) and Iron Toxicity",
         "lab": "Messner Lab, Bastyr University (Basic science department)",
-        "title":"Undergraduate Researcher",
-        "years":"Sep 2019 - Dec 2019",
-        "description":"- Prepared and maintained stock reagents.\n- Performed MCF-7 cells plating, maintenance, and counting in culture dishes.\n- Performed cytotoxicity test and analyzed collected data using excel software.\n- Collaborated with other undergraduate researchers."
+        "title": "Undergraduate Researcher",
+        "years": "Jan 2020 - June 2020",
+        "description": "- Created and performed different treatment conditions on iron overloaded rat hepatocyte epithelial cells, T51B cells.\n- Detected cell viability and determined concentration-dependent of Tetrahydrocurcumin (THC) and curcumin.\n- Accurately utilized spectrophotometry and analyzed data using excel software.\n- Gathered previous reseach papers done on THC, its iron binding and oxidative stress and wrote a draft scientific paper."
       },
       {
-        "company":"Research Proposal",
+        "company": "Research Introduction",
+        "lab": "Messner Lab, Bastyr University (Basic science department)",
+        "title": "Undergraduate Researcher",
+        "years": "Sep 2019 - Dec 2019",
+        "description": "- Prepared and maintained stock reagents.\n- Performed MCF-7 cells plating, maintenance, and counting in culture dishes.\n- Performed cytotoxicity test and analyzed collected data using excel software.\n- Collaborated with other undergraduate researchers."
+      },
+      {
+        "company": "Research Proposal",
         "lab": "Bastyr University",
-        "title":"Undergraduate Researcher",
-        "years":"Jun 2019",
-        "description":"- Proposed research project.\n- Created a grant proposal.\n- Designed a step by step research project to determine cytotoxic effect of alpha-mangostin and/or *Tinospora* extracts on human colon cancer, HCT 116, cells."
+        "title": "Undergraduate Researcher",
+        "years": "Jun 2019",
+        "description": "- Proposed research project.\n- Created a grant proposal.\n- Designed a step by step research project to determine cytotoxic effect of alpha-mangostin and/or *Tinospora* extracts on human colon cancer, HCT 116, cells."
       },
       {
-        "company":"Research Method: Secondary Analysis",
+        "company": "Research Method: Secondary Analysis",
         "lab": "Messner Lab, Bastyr University",
-        "title":"Undergraduate Researcher",
-        "years":"Mar 2019",
-        "description":"- Gathered data collected from previous scientific papers.\n- Analyzed statistical values. \n- Presented a secondary analysis on association between triglyceride level and heart disease \"The Association between Triglyceride Level, body Mass Index Risk Factors and Heart Disease in Middle-aged Adults\"."
+        "title": "Undergraduate Researcher",
+        "years": "Mar 2019",
+        "description": "- Gathered data collected from previous scientific papers.\n- Analyzed statistical values. \n- Presented a secondary analysis on association between triglyceride level and heart disease \"The Association between Triglyceride Level, body Mass Index Risk Factors and Heart Disease in Middle-aged Adults\"."
       }
     ],
     "work": [
       {
-        "company":"Bastyr University, Kenmore",
-        "title":"Server",
-        "years":"Oct 2018 - Aug 2019",
-        "description":"- Provided customer service in an efficient, friendly and professional manner. \n- Maintained high levels of cleanliness of the food area. \n- Managed cash register."
+        "company": "Bastyr University, Kenmore",
+        "title": "Server",
+        "years": "Oct 2018 - Aug 2019",
+        "description": "- Provided customer service in an efficient, friendly and professional manner. \n- Maintained high levels of cleanliness of the food area. \n- Managed cash register."
       },
       {
         "company": "Seattle Central College, Seattle",
         "title": "Tutor",
         "years": "Oct 2017 - Mar 2018",
-        "description":"- Mentored students with inorganic Chemistry and Mathematics. \n- Assisted students towards critical thinking. \n- Provided students with problem-solving strategies and skills."
+        "description": "- Mentored students with inorganic Chemistry and Mathematics. \n- Assisted students towards critical thinking. \n- Provided students with problem-solving strategies and skills."
       }
     ],
     "volunteer": [
@@ -101,73 +110,73 @@
         "description": "- Organized and prepared classroom activities. \n- Assisted children in developing problem solving skills. \n- Enhanced social skills and built socialization games/activites."
       }
     ],
-    "skillmessage":"",
-    "skills":[
+    "skillmessage": "",
+    "skills": [
       {
-        "name":"Collaboration",
-        "level":"100%"
+        "name": "Collaboration",
+        "level": "100%"
       },
       {
-        "name":"Sterilization",
-        "level":"100%"
+        "name": "Sterilization",
+        "level": "100%"
       },
       {
-        "name":"XTT assay",
-        "level":"95%"
+        "name": "XTT assay",
+        "level": "95%"
       },
       {
-        "name":"Tissue cultures",
-        "level":"95%"
+        "name": "Tissue cultures",
+        "level": "95%"
       },
       {
-        "name":"Excel software and data analysis",
-        "level":"80%"
+        "name": "Excel software and data analysis",
+        "level": "80%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
