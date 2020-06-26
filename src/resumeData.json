@@ -2,11 +2,11 @@
   "main": {
     "name": "Panisara Lertrungwichian",
     "occupation": "Research Technician",
-    "description": "Originally from Thailand, I have been studying and working in the US for six years in pursuit of knowledge and long term employment.",
+    "description": "Originally from Thailand, I have been studying in the US for six years and working part-time along the side. I recently graduated with a Bachelor of Science degree in Integrated Human Biology, and I am interested in pursuing a career as a research associate/technician.",
     "image": "profilepic.jpg",
     "bio": [
-      "I am particularly interested in utilizing the power of our own immune system to fight off various infections and diseases. We are all born with built-in armies that help protect us from infections, but not everyone of us were born with healthy and intact immune functions which make them more susceptible to various diseases. Also, the immune function will have to work extra hard when there is infection which overtime, makes us even more vulnerable to infections. With that being said, I am interested in improving our own immune function by boosting the immune cells such as T cells, altering/genetic engineering structures of immune cells so they could potentially target specific antigen, manipulating our immune responses to work better in fighting off cancer or related diseases, and so on. I am also interested in learning about the mechanism of T cell such as its metabolism, its interaction with other immune cells or cancer/infected cells because I believe T cell is the master controller in our immune responses (adaptive and innate), which are very important when it comes to fighting off infections. I am also interested in learning and gaining knowledge about mechanism of stem cells, particularly on blood stem cells involving in generating specific immune cells related to cancer to possibly reduce tumor progression.",
-      "I am a highly motivated and fast-paced individual who enjoys collaborating with others, learning new techniques, expanding my scientific skills and knowledge, and working independently on the bench. My undergraduate hard science courses with physiological/anatomical and cadaver labs and working in the laboratory setting with experiences in mammalian cell culture, sterile techniques, accurately utilizing multichannel pipettes, preforming XTT assay, collecting data, utilizing Microsoft excel, following protocol/procedure, data analysis, and collaborating with other undergraduate researchers, have assured me even more to pursue career in immune-related research field. I hope to help developing more effective techniques to eliminate cancer/related diseases and provide improved treatments to patients who may face immune-related health issues in the future. Lastly, I would love to be a part of your research team to help develop immunotherapy for those who may need."
+      "I am particularly interested in utilizing the power of our own immune system to fight off various infections and diseases. We are all born with built-in armies that help protect us from infections, but not everyone of us were born with healthy and intact immune functions which make them more susceptible to various diseases. Also, the immune function will have to work extra hard when there is infection which overtime, makes us even more vulnerable to infections. With that being said, I am interested in improving our own immune function by boosting the immune cells such as T cells, altering/genetic engineering structures of immune cells so they could potentially target specific antigen, manipulating our immune responses to work better in fighting off cancer or related diseases, and so on. I am also interested in learning about the mechanism of T cell such as its metabolism, its interaction with other immune cells or cancer/infected cells because I believe T cell is the master controller in our immune responses (adaptive and innate), which are very important when it comes to fighting off infections. . I am also interested in learning and gaining more knowledge about mechanism of stem cells and transplantation to possibly reduce tumor progression and to cope with cancer.",
+      "I am a highly self-motivated and fast-paced individual who enjoys collaborating with other researchers, learning new techniques, expanding my scientific skills and knowledge, and working independently on the bench. My undergraduate hard science courses with physiological/anatomical and cadaver labs and working in the laboratory setting with experiences in mammalian cell culture, sterile techniques, accurately utilizing multichannel pipettes, preforming XTT assay, collecting data, utilizing Microsoft excel, following protocol/procedure, data analysis, and collaborating with other undergraduate researchers, have assured me even more to pursue career in immune-related research field. I also have background knowledge on electrophoresis and Western blotting, but unfortunately I did not get to perform it in the laboratory setting due to COVID-19. I hope to help developing more effective techniques to eliminate cancer/related immune diseases and provide improved treatments to patients who may face immune-related health issues in the future. Lastly, I would love to be a part of your research team to help develop immunotherapy for those who may need."
     ],
     "email": "panisara_mj@live.com",
     "phone": "206-472-8523",
@@ -24,7 +24,7 @@
         "school": "Bastyr University",
         "degree": "Bachelor of Science in Integrated Human Biology",
         "graduated": "June 2020",
-        "description": "Spent time in laboratory setting with knowledge of sterilization techniques, maintaining and preparing stock reagents, tissue culturing, XTT assay (cell viability), data analysis, collaboration, and word and excel software."
+        "description": "Spent time in laboratory setting with knowledge of sterilization techniques, maintaining and preparing stock reagents, mammalian cell/tissue culture, XTT assay (cell viability), western blotting, data analysis, collaboration, and word and excel software."
       },
       {
         "school": "Seattle Central College",
@@ -51,21 +51,21 @@
         "lab": "Dr.Achterman, Bastyr University",
         "title": "Undergraduate Researcher",
         "years": "Apr 2020 - June 2020",
-        "description": "- Curiously researched on ongoing pandemic disease\n- Independently gathered scientific information on replication cycle, pathogenesis of SARS-CoV-2 and currrent COVID-19 treatments\n- Wrote a scientific review paper on SARS-CoV-2 and COVID-19"
+        "description": "- Curiously researched on ongoing pandemic disease\n- Independently gathered scientific information on replication cycle, pathogenesis of SARS-CoV-2 and current COVID-19 treatments\n- Wrote a scientific review paper on SARS-CoV-2 and COVID-19"
       },
       {
         "company": "Tetrahydrocurcumin (THC) and Iron Toxicity",
         "lab": "Messner Lab, Bastyr University (Basic science department)",
         "title": "Undergraduate Researcher",
         "years": "Jan 2020 - June 2020",
-        "description": "- Created and performed different treatment conditions on iron overloaded rat hepatocyte epithelial cells, T51B cells\n- Detected cell viability and determined concentration-dependent of Tetrahydrocurcumin (THC) and curcumin\n- Accurately utilized spectrophotometry and analyzed data using excel software\n- Gathered previous reseach papers done on THC, its iron binding and oxidative stress and wrote a draft scientific paper"
+        "description": "- Performed rat hepatocyte epithelial, T51B cell counting on hemocytometer\n- Created and performed different treatment conditions on iron overloaded T51B cells\n- Detected cell viability and determined concentration-dependent of THC and curcumin\n- Accurately utilized spectrophotometer, microplate reader (SoftMax Pro) and analyzed data using excel software\n- Gathered previous research papers done on THC, its iron binding and oxidative stress and wrote a draft scientific paper\n- Obtained background knowledge on electrophoresis and Western blotting"
       },
       {
         "company": "Research Introduction",
         "lab": "Messner Lab, Bastyr University (Basic science department)",
         "title": "Undergraduate Researcher",
         "years": "Sep 2019 - Dec 2019",
-        "description": "- Prepared and maintained stock reagents\n- Performed MCF-7 cells plating, maintenance, and counting in culture dishes\n- Performed cytotoxicity test and analyzed collected data using excel software\n- Collaborated with other undergraduate researchers"
+        "description": "- Prepared and maintained stock reagents\n- Strongly practiced sterilization technique and maintained aseptic work space\n- Performed MCF-7 cells counting and plating in culture dishes\n- Performed cytotoxic assay and analyzed collected data using excel software\n- Collaborated with other undergraduate researcher on cytotoxic effect of garlic extract on MCF-7 cells"
       },
       {
         "company": "Research Proposal",
@@ -76,7 +76,7 @@
       },
       {
         "company": "Research Method: Secondary Analysis",
-        "lab": "Messner Lab, Bastyr University",
+        "lab": "Bastyr University",
         "title": "Undergraduate Researcher",
         "years": "Mar 2019",
         "description": "- Gathered data collected from previous scientific papers\n- Analyzed statistical values\n- Presented a secondary analysis on association between triglyceride level and heart disease \"The Association between Triglyceride Level, body Mass Index Risk Factors and Heart Disease in Middle-aged Adults\""
@@ -93,7 +93,7 @@
         "company": "Seattle Central College, Seattle",
         "title": "Tutor",
         "years": "Oct 2017 - Mar 2018",
-        "description": "- Mentored students with inorganic Chemistry and Mathematics\n- Assisted students towards critical thinking \n- Provided students with problem-solving strategies and skills"
+        "description": "- Mentored students with inorganic Chemistry and Mathematics\n- Assisted students towards critical thinking\n- Provided students with problem-solving strategies and skills"
       }
     ],
     "volunteer": [
@@ -101,13 +101,13 @@
         "company": "Community Lunch on Capitol Hill",
         "title": "Volunteer food server",
         "year": "Jan 2018",
-        "description": "- Organized and prepared food and supplies \n- Provided food and supplies for low income population \n- Communicated and provided support for low income population"
+        "description": "- Organized and prepared food and supplies\n- Provided food and supplies for low income population\n- Communicated and provided support for low income population"
       },
       {
         "company": "Pike Place Child Care and Preschool, Seattle",
         "title": "Volunteer Childcare Taker Assistance",
         "year": "Apr 2015 - June 2015",
-        "description": "- Organized and prepared classroom activities \n- Assisted children in developing problem solving skills \n- Enhanced social skills and built socialization games/activites"
+        "description": "- Organized and prepared classroom activities\n- Assisted children in developing problem solving skills\n- Enhanced social skills and built socialization games/activities"
       }
     ],
     "skillmessage": "",
